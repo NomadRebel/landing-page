@@ -32,3 +32,36 @@ a {
 .links{
   font-size: 18px;
 }
+.content-one {
+  background-color: #1f2937;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+.text{
+  width: 500px;
+}
+.heading {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 900;
+}
+.bodyy {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+.image-one {
+  display: flex;
+  margin-left: 20px;
+}
+
+button {
+  background-color: #3882f6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 25px;
+  margin-top: 5px;
+}
