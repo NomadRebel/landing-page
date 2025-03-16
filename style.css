@@ -126,3 +126,30 @@ display: flex;
 width: 900px;
 justify-content: right;
 }
+
+.blue {
+  display: flex;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+}
+.sign-up {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 30px;
+  width: 900px;
+  border-radius: 8px;
+  background-color: #3882f6;
+  color: white;
+}
+.blue-heading{
+  font-weight: bold;
+  font-size: 20px;
+}
+.blue-body{
+  font-size: 15px;
+}
+.button-blue {
+  border: 2px white solid;
+}
