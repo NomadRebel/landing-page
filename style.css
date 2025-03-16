@@ -16,7 +16,8 @@ a {
   text-decoration: none;
  
 }
-.header{
+.header,
+.footer {
   background-color: #1f2937;
   color: white;
   display: flex;
@@ -152,4 +153,7 @@ justify-content: right;
 }
 .button-blue {
   border: 2px white solid;
+}
+.footer {
+  height: 50px;
 }
